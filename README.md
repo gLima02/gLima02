@@ -1,7 +1,9 @@
 ### Hi there 👋
+PERFIL EM CONSTRUÇÃO 
 
 Atualmente estou cursando o 3° ano de Sistemas de Informação, 
 esse perfil é destinado a armazenar projetos feitos em aula e em cursos externos à faculdade.
+Com o tempo pretendo subir também projetos antigos que já foram finalizados.
 
 Interesses em geral: 
 - Java
