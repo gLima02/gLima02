@@ -1,6 +1,7 @@
 ## github/gLima02
 
- Guilherme Lima, 20 anos; Cursando Sistemas de Informação.
+ Guilherme Lima, 20 anos; Cursando Sistemas de Informação. [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/guilherme-lima02)
+
 - Repositório voltado a armazenar projetos acadêmicos e pessoais.
 
 <p align="center">
